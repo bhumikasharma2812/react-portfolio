@@ -1,12 +1,15 @@
-import React from 'react'
-import './About.css'
-import pic from '../assets/pic.jpg'
+import React from 'react';
+import './About.css';
+import pic from '../assets/pic.jpg';
+
+
 
 const About = () => {
   return (
     <div className='about'>
       <div className="about-title">
         <h1>About Me</h1>
+      
       </div>
       <div className="about-sections">
         <div className="about-left">
