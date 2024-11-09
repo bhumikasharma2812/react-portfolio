@@ -1,0 +1,18 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin: 60px 170px;
+
+}
+.contact-title{
+    position: absolute;
+}
+.contact-title h1{
+    /* padding: 0px 30px; */
+    font-size: 60px;
+    font-weight:500;
+}
+
